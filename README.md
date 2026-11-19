@@ -6,6 +6,8 @@ Plataforma de educación, acompañamiento y coordinación del cuidado de niñas,
 
 ---
 
+**Versión publicada:** https://carfel14.github.io/glucokids/ (GitHub Pages, rama `main`, carpeta raíz).
+
 ## 1. Cómo ejecutarlo
 
 La app necesita un servidor estático (no funciona como PWA al abrir `index.html` con doble clic).
